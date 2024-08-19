@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hello 👋🏻👋🏻 I'm just a l<br>"human" who is forced to code<br>Now I am one of the people studying at Tidar University as a student in the Information Technology study program.</h2>
+<h2 align="left">Hello 👋🏻👋🏻 I'm just a l "human" who is forced to code<br>Now I am one of the people studying at Tidar University as a student in the Information Technology study program.</h2>
 
 ###
 
