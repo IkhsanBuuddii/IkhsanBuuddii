@@ -1,1 +1,44 @@
+name: Update Medium Posts
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Menjalankan setiap jam
+  workflow_dispatch:  # Memungkinkan Anda untuk menjalankannya secara manual
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser
+
+      - name: Create directories
+        run: |
+          mkdir -p new_directory  # Ganti dengan nama direktori yang sesuai jika diperlukan
+
+      - name: Fetch Medium Posts
+        run: |
+          python fetch_medium_posts.py
+
+      - name: Update README with fetched posts
+        run: |
+          python update_readme.py
+
+      - name: Commit changes
+        run: |
+          git add README.md
+          git commit -m "Updated Medium posts with thumbnails" || echo "No changes to commit"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
