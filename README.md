@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <div align="left">
   <a href="http://www.youtube.com/@sanikh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
@@ -46,21 +46,24 @@
 <img align="right" height="150" src="https://yt3.googleusercontent.com/voCwHQhPl4TJY0BdVlFmKnhDFgs0QAh-OhOzckRdavwByeT3Rr_9cjLUJ8wvJ4Ohbq3u8jGP=s160-c-k-c0x00ffffff-no-rj" alt="profile picture" />
 
 ### 
-<h3 align="left">About Me:</h3>
+## About Me:
 <p align="left">
   I am passionate about coding and technology. My journey began with learning various programming languages and frameworks, and I am currently focused on improving my skills and knowledge in the field of Information Technology.
 </p>
 
-<h3 align="left">Tech Stack:</h3>
+## Skill:
 <ul>
   <li><b>Languages:</b> JavaScript, TypeScript, Python, C#</li>
   <li><b>Frontend:</b> React, HTML5, CSS3</li>
   <li><b>Backend:</b> (Specify any backend technologies you are using)</li>
 </ul>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&count_private=true&hide=prs" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername" alt="GitHub Streak" />
-</p>
+## GitHub Stats:
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IkhsanBuuddii&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IkhsanBuuddii)
+
+## Latest Medium Posts
+
+<!-- START_MEDIUM_POSTS -->
+<!-- END_MEDIUM_POSTS -->
