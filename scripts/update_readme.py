@@ -8,7 +8,6 @@ def update_readme():
     with open(README_FILE, "r") as f:
         readme_content = f.read()
 
-    # Ganti bagian dengan posting terbaru
     new_content = readme_content.replace("<!-- START_MEDIUM_POSTS -->", "<!-- START_MEDIUM_POSTS -->\n" + posts)
     
     with open(README_FILE, "w") as f:
