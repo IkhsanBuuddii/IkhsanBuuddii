@@ -1,7 +1,7 @@
 <br clear="both">
 
 <h2 align="left">
-  Hello 👋🏻👋🏻 I'm just a "human" who is forced to code.<br>
+  Hello 👋🏻👋🏻 I'm just a "human" who is forced to code and shitposter.<br>
   Now I am one of the students at Tidar University, majoring in Information Technology.
 </h2>
 
