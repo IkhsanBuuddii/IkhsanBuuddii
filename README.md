@@ -65,5 +65,5 @@
 
 ## Latest Medium Posts
 
-<!-- START_MEDIUM_POSTS -->
-<!-- END_MEDIUM_POSTS -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
