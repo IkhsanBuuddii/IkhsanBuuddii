@@ -66,8 +66,6 @@
 ## Latest Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Memahami Git dan GitHub](https://medium.com/@ikhsan.budi.wicaksono/memahami-git-dan-github-867e3e8a7d70?source=rss-0b9b13387096------2)
-- [Jaringan Komputer untuk Pemula:](https://medium.com/@ikhsan.budi.wicaksono/jaringan-komputer-untuk-pemula-9cee7395f2ac?source=rss-0b9b13387096------2)
 <!-- BLOG-POST-LIST:END -->
 
 ![Snake animation](https://raw.githubusercontent.com/figuran04/figuran04/output/snake.svg)
